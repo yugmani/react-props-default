@@ -28,3 +28,18 @@ h2 {
 h5 {
   color: gray;
 }
+
+.array-props {
+  width: 80%;
+  height: auto;
+  background-color: antiquewhite;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul > li {
+  padding: 5px;
+}
